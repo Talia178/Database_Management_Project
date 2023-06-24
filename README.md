@@ -1,4 +1,4 @@
-# Database Management Project using MySQL on phpAdmin
+# Database Management Project using MySQL on phpMyAdmin
 
 # Introduction
 As part of my portfolio, I am excited to present a SQL project showcasing my database management and query optimization skills. This project demonstrates my ability to design, implement, and manipulate databases using the MySQL relational database management system.
